@@ -1,4 +1,4 @@
-data/
-data/mysql/
-data/mysql/db/
-*.dblwr
+# data/
+#data/mysql/
+#data/mysql/db/
+#*.dblwr
